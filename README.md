@@ -13,5 +13,5 @@ Welcome page:
 ![Screenshot (910)](https://user-images.githubusercontent.com/106104806/172373309-7554521b-1654-4e3a-8bfe-94487aa6e964.png)
 <br><br>If logged in as admin, you can delete or update existing articles:
 ![Screenshot (912)](https://user-images.githubusercontent.com/106104806/172373414-3b8d22de-dc80-4d61-b3a1-b90d9118dc98.png)
-<br><br>The website was connected to a database: 
+<br><br>The website is connected to a database: 
 ![Screenshot (915)](https://user-images.githubusercontent.com/106104806/172373790-ed91953f-4350-4be1-b7a8-a7821319c87a.png)
