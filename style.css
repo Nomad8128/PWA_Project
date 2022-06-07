@@ -1,0 +1,173 @@
+#logo {
+	width: 100%;
+	height:100%;
+	object-fit: cover;
+}
+.nav-link .nav-item .navbar-nav .navbar{
+	color: black !important;
+}
+h1{
+	font-style: italic;
+}
+.navbar {
+  /* background-color: orange !important; /*Zasto ovo radi a ne ovo iznad*/
+}
+.article{
+	float:left;
+}
+.artikl{
+	font-weight: bold;
+	color:red;
+}
+.politik{
+	/*width:100%;*/
+	/*height:80%;*/
+	object-fit: cover;
+	/*height:80%;*/
+	/*height: 250px;*/
+}
+.health{
+	/*height:80%;*/
+	object-fit: cover;
+	/*height: 250px;*/
+}
+h8 {
+	font-weight: bold;
+	color:red;
+}
+.opis{
+	font-weight: bold;
+}
+.odlomak1{
+	padding-top:1%;
+}
+.test{
+	width:100%;
+	/*height:80%;*/
+	object-fit: cover;
+}
+.testb{
+	width:100%;
+	/*height:85%;*/
+	object-fit: cover;
+}
+a:link {
+	color:red;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color:red;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color:red;
+	font-weight: bold;
+	text-decoration: none;
+}
+hr {
+	width:100%;
+}
+
+@media only screen and (min-width: 1400px) {
+    .test{
+	width:100%;
+	height:80%;
+	object-fit: cover;	
+}
+  .testb{
+	width:100%;
+	height:85%;
+	object-fit: cover;	
+}
+}
+@media screen and (min-width: 1200px) and (max-width: 1400px){
+	.test{
+	width:80%;
+	height:70%;
+	object-fit: cover;	
+}
+	.testb{
+	width:80%;
+	height:80%;
+	object-fit: cover;	
+}
+}
+
+/*@media screen and (min-width: 845px) and (max-width: 1091px){
+	.politik{
+	/*width:100%;*/
+	/*height:80%;*/
+/*	object-fit: cover;
+	height:350px;	
+}
+.health{
+	height:350px;
+	object-fit: cover;
+}
+}*/
+@media screen and (min-width: 1092px) {
+.politik{
+	/*width:100%;*/
+	/*height:80%;*/
+	object-fit: cover;
+	/*height:80%;*/
+	height: 250px;
+}
+.health{
+	/*height:80%;*/
+	object-fit: cover;
+	height: 250px;
+}
+}
+@media screen and (min-width: 992px) and (max-width: 1200px){
+	.test{
+	width:80%;
+	height:60%;
+	object-fit: cover;	
+}
+	.testb{
+	width:80%;
+	height:70%;
+	object-fit: cover;	
+}
+.politik{
+	/*width:100%;*/
+	/*height:80%;*/
+	object-fit: cover;
+	/*height:80%;*/
+	height: 250px;
+}
+.health{
+	/*height:80%;*/
+	object-fit: cover;
+	height: 250px;
+}
+}
+
+@media only screen and (max-width: 1400px) {
+  .test{
+	width:100%;
+	object-fit: cover;
+}
+  .testb{
+	width:100%;
+	object-fit: cover;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .nav-item{
+	width:100%;
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+  }
+  .navbar-nav{
+	margin-left: auto;
+    margin-right: auto;
+  }
+  h1{
+	text-align:center;
+  }
+}
